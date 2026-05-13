@@ -18,6 +18,7 @@ const translations = {
         'project.weriseleague': 'Summer swim league site promoting competitive youth swimming.',
         'project.werisefoundation': 'Nonprofit platform for inclusive swimming programs serving underserved children and athletes.',
         'project.swimriseaquatics': 'Competitive swimming academy site covering coaching from first strokes to competition.',
+        'project.pinnaclemassage': 'Massage therapy studio site showcasing services, pricing, and online booking.',
         'footer.built': 'Built by'
     },
     pt: {
@@ -38,6 +39,7 @@ const translations = {
         'project.weriseleague': 'Site de liga de nata\u00e7\u00e3o de ver\u00e3o promovendo nata\u00e7\u00e3o competitiva juvenil.',
         'project.werisefoundation': 'Plataforma sem fins lucrativos para programas inclusivos de nata\u00e7\u00e3o para crian\u00e7as e atletas carentes.',
         'project.swimriseaquatics': 'Site de academia de nata\u00e7\u00e3o competitiva cobrindo treinamento desde as primeiras braçadas até competi\u00e7\u00f5es.',
+        'project.pinnaclemassage': 'Site de estúdio de massoterapia apresentando serviços, preços e agendamento online.',
         'footer.built': 'Feito por'
     }
 };
