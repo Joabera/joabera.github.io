@@ -10,8 +10,11 @@ const translations = {
         'hero.cta': 'View My Work',
         'about.title': 'About Me',
         'about.bio': 'Web developer specializing in building modern, responsive websites for businesses and organizations. From e-commerce stores to nonprofit platforms, I create digital experiences that help my clients grow and connect with their communities.',
+        'about.resume': 'Resume',
         'projects.title': 'Projects',
         'projects.visit': 'Visit Site \u2192',
+        'projects.viewCode': 'View on GitHub \u2192',
+        'projects.techStack': 'Tech Stack',
         'project.amhandyjax': 'Home renovation and repair services website for a local contractor.',
         'project.swimriseacademy': 'Swim instruction platform featuring lessons for all ages including adaptive programs.',
         'project.swimriseshop': 'Official merchandise and apparel e-commerce store for SwimRise Aquatics.',
@@ -19,6 +22,9 @@ const translations = {
         'project.werisefoundation': 'Nonprofit platform for inclusive swimming programs serving underserved children and athletes.',
         'project.swimriseaquatics': 'Competitive swimming academy site covering coaching from first strokes to competition.',
         'project.pinnaclemassage': 'Massage therapy studio site showcasing services, pricing, and online booking.',
+        'project.pokeguess': 'Deep learning image classifier that identifies 150 first-gen Pokémon from photos or sketches. School project built with PyTorch and ResNet-18 transfer learning.',
+        'project.pokeguess.tech2': 'Transfer Learning',
+        'project.pokeguess.tech3': 'Tkinter Desktop UI',
         'footer.built': 'Built by'
     },
     pt: {
@@ -31,8 +37,11 @@ const translations = {
         'hero.cta': 'Ver Meu Trabalho',
         'about.title': 'Sobre Mim',
         'about.bio': 'Desenvolvedor web especializado em criar sites modernos e responsivos para empresas e organiza\u00e7\u00f5es. De lojas virtuais a plataformas sem fins lucrativos, crio experi\u00eancias digitais que ajudam meus clientes a crescer e se conectar com suas comunidades.',
+        'about.resume': 'Curr\u00edculo',
         'projects.title': 'Projetos',
         'projects.visit': 'Visitar Site \u2192',
+        'projects.viewCode': 'Ver no GitHub \u2192',
+        'projects.techStack': 'Tecnologias',
         'project.amhandyjax': 'Site de servi\u00e7os de reforma e reparo residencial para um empreiteiro local.',
         'project.swimriseacademy': 'Plataforma de instru\u00e7\u00e3o de nata\u00e7\u00e3o com aulas para todas as idades, incluindo programas adaptativos.',
         'project.swimriseshop': 'Loja virtual oficial de roupas e acess\u00f3rios da SwimRise Aquatics.',
@@ -40,6 +49,9 @@ const translations = {
         'project.werisefoundation': 'Plataforma sem fins lucrativos para programas inclusivos de nata\u00e7\u00e3o para crian\u00e7as e atletas carentes.',
         'project.swimriseaquatics': 'Site de academia de nata\u00e7\u00e3o competitiva cobrindo treinamento desde as primeiras braçadas até competi\u00e7\u00f5es.',
         'project.pinnaclemassage': 'Site de estúdio de massoterapia apresentando serviços, preços e agendamento online.',
+        'project.pokeguess': 'Classificador de imagens com aprendizado profundo que identifica os 150 Pokémon da primeira geração a partir de fotos ou desenhos. Projeto escolar feito com PyTorch e transfer learning em ResNet-18.',
+        'project.pokeguess.tech2': 'Transfer Learning',
+        'project.pokeguess.tech3': 'Interface Desktop Tkinter',
         'footer.built': 'Feito por'
     }
 };

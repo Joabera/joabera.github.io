@@ -408,6 +408,46 @@ a {
     object-position: top center;
 }
 
+.flip-card-back-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 28px;
+    background:
+        radial-gradient(ellipse 80% 60% at 50% 0%, rgba(108, 99, 255, 0.18), transparent),
+        var(--bg-card);
+}
+
+.back-info-content {
+    text-align: center;
+    width: 100%;
+}
+
+.back-info-label {
+    display: block;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--text-muted);
+    margin-bottom: 16px;
+}
+
+.back-info-list {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.back-info-list li {
+    font-size: 0.9rem;
+    color: var(--text-primary);
+    padding: 5px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.back-info-list li:last-child {
+    border-bottom: none;
+}
+
 .flip-card-overlay {
     position: absolute;
     inset: 0;
